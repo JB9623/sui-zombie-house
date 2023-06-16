@@ -37,7 +37,7 @@ module zombie_house::zombie_house {
     b"Police",
     b"Priate",
   ];
-  const AIRDROP_AMOUNT: u64 = 1000 * 1000000000;
+  const AIRDROP_AMOUNT: u64 = 2000 * 1000000000;
 
   /// One time witness is only instantiated in the init method
   struct ZOMBIE_HOUSE has drop {}
